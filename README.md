@@ -34,8 +34,6 @@ You can either use those images or use them as a blueprint to build your own env
 for reproduction.
 
 ## Donate
-
-`<a href="https://liberapay.com/Arch-Briar/donate" target="_blank" rel="noopener noreferrer"><img src="https://briarproject.org/img/liberapay.svg" alt="Donate using Liberapay" />
-</a>`
+[![Donate using Liberapay](https://briarproject.org/img/liberapay.svg)]("https://liberapay.com/Arch-Briar/donate" target="_blank" rel="noopener noreferrer")
 **Bitcoin (BTC):** `bc1qn9eerhr65cl7prngzpyysj58vcfhse4j03wcaa`  
 **Bitcoin Cash (BCH):** `qqmcjgvrstwwyh372rncdcvr64jr8vj3uylhv2qzkh`
