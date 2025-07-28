@@ -36,4 +36,5 @@ for reproduction.
 ## Donate
 
 [![Donate using Liberapay](https://briarproject.org/img/liberapay.svg)](https://liberapay.com/Briar/donate)   
-Bitcoin and BCH: 1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K
+Bitcoin (BTC): bc1qn9eerhr65cl7prngzpyysj58vcfhse4j03wcaa
+Bitcoin Cash (BCH): qqmcjgvrstwwyh372rncdcvr64jr8vj3uylhv2qzkh
