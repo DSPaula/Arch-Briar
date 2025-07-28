@@ -26,7 +26,7 @@ our site.
 
 ## Reproducible builds
 
-We provide [docker images](https://code.briarproject.org/briar/briar-reproducer#briar-reproducer)
+We provide <a href="https://code.briarproject.org/briar/briar-reproducer#briar-reproducer" target="_blank" rel="noopener noreferrer">docker images</a>.
 to ease the task of verifying that the published APK binaries
 include nothing but our publicly available source code.
 
