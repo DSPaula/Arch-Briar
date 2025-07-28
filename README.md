@@ -35,5 +35,6 @@ for reproduction.
 
 ## Donate
 [![Donate using Liberapay](https://briarproject.org/img/liberapay.svg)](https://liberapay.com/Arch-Briar/donate)
+
 **Bitcoin (BTC):** `bc1qn9eerhr65cl7prngzpyysj58vcfhse4j03wcaa`  
 **Bitcoin Cash (BCH):** `qqmcjgvrstwwyh372rncdcvr64jr8vj3uylhv2qzkh`
