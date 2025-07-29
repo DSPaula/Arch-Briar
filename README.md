@@ -1,5 +1,5 @@
-# Briar
-Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate.
+# Arch-Briar
+Arch-Briar is an expanded version of Briar — a messaging app designed for activists, journalists, and anyone who needs a secure, user-friendly, and resilient way to communicate. Development is ongoing to broaden its features and capabilities beyond the original Briar.
 
 Unlike traditional messaging apps, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. 
 
